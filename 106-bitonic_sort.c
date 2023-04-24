@@ -1,6 +1,3 @@
-uth: Brennan D Baraban
- */
-
 #include "sort.h"
 
 void swap_ints(int *a, int *b);
